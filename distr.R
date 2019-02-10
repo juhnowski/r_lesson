@@ -1,0 +1,5 @@
+z <- rnorm(33,70,10)
+z <- round(z,2)
+ls()
+getwd()
+dir()

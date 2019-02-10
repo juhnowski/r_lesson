@@ -12,3 +12,5 @@ r15 | r7    # 0f
 xor(r15, r7)# 08
 
 bitwShiftR(-1, 1:31) # shifts of 2^32-1 = 4294967295
+
+as.raw(32)
