@@ -1,0 +1,6 @@
+val1 = c(TRUE,FALSE,TRUE,FALSE)
+val2 = c(FALSE,TRUE,TRUE,FALSE)
+print(val1 & val2)
+print(val1 | val2)
+print(val1 || val2)
+print(val1 && val2)
